@@ -16,3 +16,6 @@ I studied Mathematics at the University of Manchester, where I developed a stron
 - Tennis
 
 You can visit [Github](https://github.com/) to see more projects.
+
+------
+Last Update: 2026/09/30
