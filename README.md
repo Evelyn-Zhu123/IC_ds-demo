@@ -1,6 +1,6 @@
 # Hi, I'm Jingyu👋
 
-I am a Statistics student in Imperial. I enjoy applying mathematical and computational methods to real-world problems.
+I am a Statistics student in Imperial. I enjoy applying mathematical and computational methods to real-world problems. I am currently studying [MSc Statistics at Imperial College London](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).
 
 I have experience working with Python, R and SQL, and I am particularly interested in machine learning, time series analysis and stochastic modelling.
 
