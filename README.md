@@ -4,6 +4,10 @@ I am a Statistics student in Imperial. I enjoy applying mathematical and computa
 
 I have experience working with Python, R and SQL, and I am particularly interested in machine learning, time series analysis and stochastic modelling.
 
+## Previous Education
+
+I studied Mathematics at the University of Manchester, where I developed a strong foundation in probability, statistics and computational methods.
+
 ## My Interests
 
 - Data Science
