@@ -11,4 +11,4 @@ I have experience working with Python, R and SQL, and I am particularly interest
 - Quantitative Finance
 - Tennis
 
-You can visit [Githb](https://github.com/) to see more projects.
+You can visit [Github](https://github.com/) to see more projects.
